@@ -59,4 +59,4 @@ licenses, and/or restrictions:
 
 Program             Directory
 -------             ---------
-<none yet>
+AVR contributions   ELF/Arch/AVR-COPYING
